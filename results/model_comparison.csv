@@ -1,0 +1,4 @@
+,accuracy,precision,recall,f1,params_M,ms_per_image
+MobileNetV2,0.8902,0.8921,0.8917,0.8894,2.5921,38.7432
+EfficientNetB0,0.8618,0.87,0.8611,0.8568,4.3837,54.0031
+Custom CNN,0.8252,0.8308,0.8151,0.8137,1.242,8.8043

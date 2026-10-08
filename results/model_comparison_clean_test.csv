@@ -1,0 +1,4 @@
+,full_test_acc,clean_test_acc,clean_f1
+MobileNetV2,0.8902,0.8939,0.8893
+EfficientNetB0,0.8618,0.8436,0.8302
+Custom CNN,0.8252,0.7654,0.7359

@@ -1,0 +1,1 @@
+{"classes": ["glioma", "meningioma", "no_tumor", "pituitary"], "best_model": "MobileNetV2", "img_size": [224, 224]}
